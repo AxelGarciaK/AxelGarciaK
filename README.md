@@ -4,7 +4,12 @@ Hi 👋 My name is Axel Garcia K.
 Software Engineer
 -----------------
 
-A bit about me: 💼 Software Engineer 7+ years of experience ✍️ Writes about Computing History, AI and open source. 🎮 Ex-gamer. Favorite games: AoE2, Zelda 🎎 Loves anime/movies 🎹 Plays several music instruments
+A bit about me:\
+💼 Software Engineer 7+ years of experience.\
+✍️ Writes about Computing History, AI and open source.\
+🎮 Ex-gamer. Favorite games: AoE2, Zelda.\
+🎎 Loves anime/movies\
+🎹 Plays several musical instruments. Piano and Guitar are the main ones.
 
 *   🌍  I'm based in United Kingdom
 *   🧠  I'm learning Zig, Rust, Golang
